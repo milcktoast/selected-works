@@ -38,7 +38,7 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 
 
-# Particulate
+## Particulate
 
 [![Particulate](https://c1.staticflickr.com/5/4245/34068319963_c930875583_h.jpg)](https://particulatejs.org)
 
@@ -48,7 +48,7 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 
 
-# Water Underground
+## Water Underground
 
 [![Water Underground](https://c1.staticflickr.com/5/4251/34492486650_02c3a1a80b_h.jpg)](https://jayweeks.com/water-underground/)
 
