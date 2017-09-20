@@ -35,6 +35,7 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 > _Interactive kinetic sculpture concept_  
 > _2017_  
+> [3D Model](https://sketchfab.com/models/87c1fd50cf054247a89fbc2932e770c2) – [Process Gallery](https://www.flickr.com/photos/jpweeks/albums/72157678782827834)
 
 
 
