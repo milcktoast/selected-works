@@ -30,8 +30,8 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 ## Illuminator (WIP)
 
-![Illuminator](https://c1.staticflickr.com/5/4228/34821485072_17608622d0_h.jpg)
-![Illuminator](https://c1.staticflickr.com/5/4200/34821486572_84b6cb7ac4_h.jpg)
+[![Illuminator](https://c1.staticflickr.com/5/4228/34821485072_17608622d0_h.jpg)](https://sketchfab.com/models/87c1fd50cf054247a89fbc2932e770c2)
+[![Illuminator](https://c1.staticflickr.com/5/4200/34821486572_84b6cb7ac4_h.jpg)](https://www.flickr.com/photos/jpweeks/albums/72157678782827834)
 
 > _Interactive kinetic sculpture concept_  
 > _2017_  
