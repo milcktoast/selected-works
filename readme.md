@@ -28,6 +28,17 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 
 
+## Faces
+
+[![Faces - Live Project](https://c1.staticflickr.com/5/4440/37183754602_0ea4095406_h.jpg)](https://jayweeks.com/faces/)
+[![Faces - Process Gallery](https://c1.staticflickr.com/5/4334/37356370945_a0625b995e_h.jpg)](https://www.flickr.com/photos/jpweeks/albums/72157685408940515)
+
+> _Strange face compositions generated with computer vision_  
+> _2017_  
+> [Live Project](https://jayweeks.com/faces/) – [Composite Gallery](https://www.flickr.com/photos/jpweeks/albums/72157685408940515)
+
+
+
 ## Illuminator (WIP)
 
 [![Illuminator](https://c1.staticflickr.com/5/4228/34821485072_17608622d0_h.jpg)](https://sketchfab.com/models/87c1fd50cf054247a89fbc2932e770c2)
