@@ -35,7 +35,7 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 > _Strange face compositions generated with computer vision_  
 > _2017_  
-> [Live Project](https://jayweeks.com/faces/) – [Composite Gallery](https://www.flickr.com/photos/jpweeks/albums/72157685408940515)
+> [Live Project](https://jayweeks.com/faces/) – [Source Code](https://github.com/jpweeks/faces) – [Composite Gallery](https://www.flickr.com/photos/jpweeks/albums/72157685408940515)
 
 
 
