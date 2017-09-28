@@ -1,11 +1,11 @@
-# Selected Works
+# Selected Works (Self Directed / Experimental)
 
 
 
 ## Medusae
 
-[![Medusae - Live Project](https://c1.staticflickr.com/5/4275/34492493610_07a44fd046_h.jpg)](https://jayweeks.com/medusae/)
-[![Medusae - Process Gallery](https://c1.staticflickr.com/5/4196/34586321750_d3171849bd_h.jpg)](https://www.flickr.com/photos/jpweeks/albums/72157646887502644)
+[![Medusae - Live Project](./images/medusae.png)](https://jayweeks.com/medusae/)
+[![Medusae - Process Gallery](./images/medusae-thumbs.png)](https://www.flickr.com/photos/jpweeks/albums/72157646887502644)
 
 > _Soft body jellyfish simulation_  
 > _2015_  
@@ -17,8 +17,8 @@ Starting out as a few simple prototypes to test a realtime physics system I was 
 
 ## [Dinild] Trimp
 
-[![Trimp - Live Project](https://c1.staticflickr.com/5/4227/34068315343_afdaa2a7e5_h.jpg)](https://jayweeks.com/trimp/)
-[![Trimp - Process Gallery](https://c1.staticflickr.com/5/4197/34586316600_9f7dc06c14_h.jpg)](https://www.flickr.com/photos/jpweeks/albums/72157675071532004)
+[![Trimp - Live Project](./images/trimp.png)](https://jayweeks.com/trimp/)
+[![Trimp - Process Gallery](./images/trimp-thumbs.png)](https://www.flickr.com/photos/jpweeks/albums/72157675071532004)
 
 > _Surrealist horror voodoo doll; nonsensical phrase generator_  
 > _2016_  
@@ -30,8 +30,8 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 ## Faces
 
-[![Faces - Live Project](https://c1.staticflickr.com/5/4440/37183754602_0ea4095406_h.jpg)](https://jayweeks.com/faces/)
-[![Faces - Process Gallery](https://c1.staticflickr.com/5/4334/37356370945_a0625b995e_h.jpg)](https://www.flickr.com/photos/jpweeks/albums/72157685408940515)
+[![Faces - Live Project](./images/faces.png)](https://jayweeks.com/faces/)
+[![Faces - Process Gallery](./images/faces-thumbs.png)](https://www.flickr.com/photos/jpweeks/albums/72157685408940515)
 
 > _Strange face compositions generated with computer vision_  
 > _2017_  
@@ -41,8 +41,8 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 ## Illuminator (WIP)
 
-[![Illuminator](https://c1.staticflickr.com/5/4228/34821485072_17608622d0_h.jpg)](https://sketchfab.com/models/87c1fd50cf054247a89fbc2932e770c2)
-[![Illuminator](https://c1.staticflickr.com/5/4200/34821486572_84b6cb7ac4_h.jpg)](https://www.flickr.com/photos/jpweeks/albums/72157678782827834)
+[![Illuminator](./images/illuminator.png)](https://sketchfab.com/models/87c1fd50cf054247a89fbc2932e770c2)
+[![Illuminator](./images/illuminator-thumbs.png)](https://www.flickr.com/photos/jpweeks/albums/72157678782827834)
 
 > _Interactive kinetic sculpture concept_  
 > _2017_  
@@ -52,7 +52,7 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 ## Polyselfie
 
-[![Polyselfie](https://c1.staticflickr.com/5/4227/34492490960_71fbaa83ee_h.jpg)](https://jayweeks.com/polyselfie/)
+[![Polyselfie](./images/polyselfie.png)](https://jayweeks.com/polyselfie/)
 
 > _Polygonal webcam toy_  
 > _2013_  
@@ -62,7 +62,7 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 ## Particulate
 
-[![Particulate](https://c1.staticflickr.com/5/4245/34068319963_c930875583_h.jpg)](https://particulatejs.org)
+[![Particulate](./images/particulate.png)](https://particulatejs.org)
 
 > _Particle physics micro library_  
 > _2014_  
@@ -72,10 +72,35 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 ## Water Underground
 
-[![Water Underground](https://c1.staticflickr.com/5/4251/34492486650_02c3a1a80b_h.jpg)](https://jayweeks.com/water-underground/)
+[![Water Underground](./images/water-underground.png)](https://jayweeks.com/water-underground/)
 
 > _Global ground water data visualization_  
 > _2011_  
 > [Live Project](https://jayweeks.com/water-underground/) – [Source Code](https://github.com/jpweeks/water-underground/)
 
 
+
+# Selected Works (Client / Contract)
+
+
+
+## Destroy Ernie's Evidence
+
+[![Ernie - Live Project](./images/ernie.png)](http://helpernie.com)
+[![Ernie](./images/ernie-thumbs.png)](http://helpernie.com)
+
+> _Immersive eight-chapter whodunit with hidden games_  
+> _[The Wonderful Company](https://www.wonderful.com)_
+> _2017_  
+> _[Backbone][backbone-url], [Pixi][pixi-url], [Grunt][grunt-url], WebGL, GLSL_
+> [Live Project](http://helpernie.com)
+
+An immersive eight-chapter whodunit with hidden games where users help Ernie the Elephant track down the missing “nature film” he made with the Squirrel Sisters.
+
+Working with one other frontend developer, I was responsible for establishing the site's architecture and build system as well as leading graphics development and our device responsiveness strategy. Core site features I built include the home page intro, each chapter's interactive panorama scene with hidden clues, games for chapters (2, 4, 6, 7, 8), as well as the campaign finale sequence.
+
+
+
+[backbone-url]: http://backbonejs.org
+[pixi-url]: http://www.pixijs.com
+[grunt-url]: https://gruntjs.com
