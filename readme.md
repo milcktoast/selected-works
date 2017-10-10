@@ -1,8 +1,23 @@
-# Selected Works (Self Directed / Experimental)
+# Selected Works
+
+- [Self Directed / Experimental](#self-directed--experimental)
+    - [Medusae](#medusae)
+    - [[Dinild] Trimp](#dinild-trimp)
+    - [Faces](#faces)
+    - [Illuminator](#illuminator)
+    - [Polyselfie](#polyselfie)
+    - [Particulate](#particulate)
+    - [Water Underground](#water-underground)
+- [Client / Contract](#client--contract)
+    - [Destroy Ernie's Evidence](#destroy-ernies-evidence)
 
 
 
-## Medusae
+## Self Directed / Experimental
+
+
+
+### Medusae
 
 [![Medusae - Live Project](./images/medusae.png)](https://jayweeks.com/medusae/)
 [![Medusae - Process Gallery](./images/medusae-thumbs.png)](https://www.flickr.com/photos/jpweeks/albums/72157646887502644)
@@ -15,7 +30,7 @@ Starting out as a few simple prototypes to test a realtime physics system I was 
 
 
 
-## [Dinild] Trimp
+### [Dinild] Trimp
 
 [![Trimp - Live Project](./images/trimp.png)](https://jayweeks.com/trimp/)
 [![Trimp - Process Gallery](./images/trimp-thumbs.png)](https://www.flickr.com/photos/jpweeks/albums/72157675071532004)
@@ -28,7 +43,7 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 
 
-## Faces
+### Faces
 
 [![Faces - Live Project](./images/faces.png)](https://jayweeks.com/faces/)
 [![Faces - Process Gallery](./images/faces-thumbs.png)](https://www.flickr.com/photos/jpweeks/albums/72157685408940515)
@@ -39,7 +54,7 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 
 
-## Illuminator (WIP)
+### Illuminator (WIP)
 
 [![Illuminator](./images/illuminator.png)](https://sketchfab.com/models/87c1fd50cf054247a89fbc2932e770c2)
 [![Illuminator](./images/illuminator-thumbs.png)](https://www.flickr.com/photos/jpweeks/albums/72157678782827834)
@@ -50,7 +65,7 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 
 
-## Polyselfie
+### Polyselfie
 
 [![Polyselfie](./images/polyselfie.png)](https://jayweeks.com/polyselfie/)
 
@@ -60,7 +75,7 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 
 
-## Particulate
+### Particulate
 
 [![Particulate](./images/particulate.png)](https://particulatejs.org)
 
@@ -70,7 +85,7 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 
 
-## Water Underground
+### Water Underground
 
 [![Water Underground](./images/water-underground.png)](https://jayweeks.com/water-underground/)
 
@@ -80,11 +95,11 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 
 
-# Selected Works (Client / Contract)
+## Client / Contract
 
 
 
-## Destroy Ernie's Evidence
+### Destroy Ernie's Evidence
 
 [![Ernie - Live Project](./images/ernie.png)](http://helpernie.com)
 [![Ernie](./images/ernie-thumbs.png)](http://helpernie.com)
