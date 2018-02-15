@@ -108,7 +108,7 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 > _[The Wonderful Company](https://www.wonderful.com)_  
 > _2017_  
 > _[Backbone][backbone-url], [Pixi][pixi-url], [Grunt][grunt-url], WebGL, GLSL_  
-> [Live Project](http://helpernie.com)  
+> ~~[Live Project](http://helpernie.com)~~ (no longer live)  
 
 An immersive eight-chapter whodunit with hidden games where users help Ernie the Elephant track down the missing “nature film” he made with the Squirrel Sisters.
 
