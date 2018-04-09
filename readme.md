@@ -1,6 +1,7 @@
 # Selected Works
 
 - [Self Directed / Experimental](#self-directed--experimental)
+    - [Microbium](#microbium)
     - [Medusae](#medusae)
     - [[Dinild] Trimp](#dinild-trimp)
     - [Faces](#faces)
@@ -14,6 +15,19 @@
 
 
 ## Self Directed / Experimental
+
+
+
+### Microbium
+
+[![Microbium - App Promo Site](./images/microbium.png)](https://microbiumapp.com)
+[![Microbium - Process Gallery](./images/microbium-thumbs.png)](https://www.instagram.com/explore/tags/microbiumapp/)
+
+> _Playful sandbox app for simulation based generative art_  
+> _2018_  
+> [App Promo Site](https://microbiumapp.com) – [Live Sketches](https://codepen.io/collection/AWpRYr/) – [Process Gallery](https://www.instagram.com/explore/tags/microbiumapp/)
+
+Not quite a serious tool yet much more than just a toy, Microbium intends to be a fun and friendly sandbox for experimentation with simulation based generative art. Designed for simplicity, you will only need to learn one polygon / brush tool to start making interesting art, while much depth in style and motion can be achieved with the flexible rendering and simulating systems. My initial motivation for this project started with a [Jellyfish](#medusae); people really enjoy observing the mesmerizing movements of these forms. This was an experimental project to test some of my ideas for simulation based animation, but the process was very limiting: I had hand-coded procedures for generating and connecting all the parts and components of the form. I wanted a fun tool and better process for myself and for others to experiment more freely, so Microbium came to be.
 
 
 
