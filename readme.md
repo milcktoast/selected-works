@@ -122,11 +122,11 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 > _[The Wonderful Company](https://www.wonderful.com)_  
 > _2017_  
 > _[Backbone][backbone-url], [Pixi][pixi-url], [Grunt][grunt-url], WebGL, GLSL_  
-> [Live Project](http://helpernie.com)  
+> ~~[Live Project](http://helpernie.com)~~ (no longer live)  
 
 An immersive eight-chapter whodunit with hidden games where users help Ernie the Elephant track down the missing “nature film” he made with the Squirrel Sisters.
 
-Working with one other frontend developer, I was responsible for establishing the site's architecture and build system as well as leading graphics development and our device responsiveness strategy. Core site features I built include the home page intro, each chapter's interactive panorama scene with hidden clues, games for chapters (2, 4, 6, 7, 8), as well as the campaign finale sequence.
+Working with one other frontend developer, I was responsible for leading graphics development as well as establishing the site's architecture and build system and our device responsiveness strategy. Core site features I built include the home page intro, each chapter's interactive panorama scene with hidden clues, games for chapters (2, 4, 6, 7, 8), as well as the campaign finale sequence.
 
 
 
