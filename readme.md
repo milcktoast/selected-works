@@ -134,7 +134,7 @@ We worked with a 3D video capture studio to record Sam Smith’s improvisational
 
 [![Doom Days - Live Project](./images/bastille-doom-days.png)](https://doomdays.house)
 
-> 
+> _Immersive party scene exploration experience_  
 > _Powster / Bastille_  
 > _2019_  
 > [Live Project](https://doomdays.house) – [Case Study](https://www.behance.net/gallery/82720187/Bastille-Doom-Days-Promotional-Website)  
