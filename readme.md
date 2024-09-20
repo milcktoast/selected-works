@@ -10,6 +10,8 @@
     - [Particulate](#particulate)
     - [Water Underground](#water-underground)
 - [Client / Contract](#client--contract)
+    - [Sam Smith Diamonds](#sam-smith-diamonds)
+    - [Bastille Doom Days House](#bastille-doom-days-house)
     - [Destroy Ernie's Evidence](#destroy-ernies-evidence)
 
 
@@ -24,8 +26,8 @@
 [![Microbium - Process Gallery](./images/microbium-thumbs.png)](https://www.instagram.com/explore/tags/microbiumapp/)
 
 > _Playful sandbox app for simulation based generative art_  
-> _2018 - 2022_  
-> [App Promo Site](https://microbiumapp.com) – [Live Sketches](https://codepen.io/collection/AWpRYr/) – [Process Gallery](https://www.instagram.com/explore/tags/microbiumapp/)
+> _2018-2022_  
+> [App Promo Site](https://microbiumapp.com) – [Live Sketches](https://codepen.io/collection/AWpRYr/) – [Process Gallery](https://www.instagram.com/explore/tags/microbiumapp/) – [GitHub Universe Showcase](https://www.youtube.com/watch?v=XRV0yRLiC1g)
 
 Not quite a serious tool yet much more than just a toy, Microbium intends to be a fun and friendly sandbox for experimentation with simulation based generative art. Designed for simplicity, you will only need to learn one polygon / brush tool to start making interesting art, while much depth in style and motion can be achieved with the flexible rendering and simulating systems. My initial motivation for this project started with a [Jellyfish](#medusae); people really enjoy observing the mesmerizing movements of these forms. This was an experimental project to test some of my ideas for simulation based animation, but the process was very limiting: I had hand-coded procedures for generating and connecting all the parts and components of the form. I wanted a fun tool and better process for myself and for others to experiment more freely, so Microbium came to be.
 
@@ -68,7 +70,7 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 
 
-### Illuminator (WIP)
+### Illuminator
 
 [![Illuminator](./images/illuminator.png)](https://sketchfab.com/models/87c1fd50cf054247a89fbc2932e770c2)
 [![Illuminator](./images/illuminator-thumbs.png)](https://www.flickr.com/photos/jpweeks/albums/72157678782827834)
@@ -110,6 +112,36 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 
 ## Client / Contract
+
+
+
+### Sam Smith Diamonds
+
+[![Diamonds - Live Project](./images/sam-smith-diamonds.png)](https://diamonds.samsmithworld.com)
+
+> _Volumetric AR Performance_
+> _Powster / Sam Smith / Spotify_
+> _2020_
+> [Live Project](https://diamonds.samsmithworld.com) – [Case Study](https://www.behance.net/gallery/106993401/Sam-Smith-Diamonds-AR-on-Spotify)
+
+An interactive volumetric performance displayed in AR promoting the Diamonds album by Sam Smith. 
+
+We worked with a 3D video capture studio to record Sam Smith’s improvisational dancing, which we were then able to play back as a volumetric video in realtime using the MRCS video format. The 3D scene is also unlocked by and tracked to the album artwork for the album on Spotify. I contributed to the creative development of the experience including the shattered diamond interaction mechanic and image tracking flow. I also executed the front-end build including custom refraction shaders for the fragmented diamond effects.
+
+
+
+### Bastille Doom Days House
+
+[![Doom Days - Live Project](./images/bastille-doom-days.png)](https://doomdays.house)
+
+> 
+> _Powster / Bastille_
+> _2019_
+> [Live Project](https://doomdays.house) – [Case Study](https://www.behance.net/gallery/82720187/Bastille-Doom-Days-Promotional-Website)
+
+An immersive party scene exploration experience with each room featuring a track from the Doom Days album by Bastille.
+
+We combined traditional 3D modeling with handheld 3D scanning to create the college house party environments for this experience. I contributed to the conceptual and creative development of the experience including the shattered figure alignment mechanic. I also executed the front-end build including several unique material and VFX shaders that make up the surreal spotlight effect as well as other visuals.
 
 
 
