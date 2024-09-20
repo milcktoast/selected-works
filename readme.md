@@ -119,10 +119,10 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 
 [![Diamonds - Live Project](./images/sam-smith-diamonds.png)](https://diamonds.samsmithworld.com)
 
-> _Volumetric AR Performance_
-> _Powster / Sam Smith / Spotify_
-> _2020_
-> [Live Project](https://diamonds.samsmithworld.com) – [Case Study](https://www.behance.net/gallery/106993401/Sam-Smith-Diamonds-AR-on-Spotify)
+> _Volumetric AR Performance_  
+> _Powster / Sam Smith / Spotify_  
+> _2020_  
+> [Live Project](https://diamonds.samsmithworld.com) – [Case Study](https://www.behance.net/gallery/106993401/Sam-Smith-Diamonds-AR-on-Spotify)  
 
 An interactive volumetric performance displayed in AR promoting the Diamonds album by Sam Smith. 
 
@@ -135,9 +135,9 @@ We worked with a 3D video capture studio to record Sam Smith’s improvisational
 [![Doom Days - Live Project](./images/bastille-doom-days.png)](https://doomdays.house)
 
 > 
-> _Powster / Bastille_
-> _2019_
-> [Live Project](https://doomdays.house) – [Case Study](https://www.behance.net/gallery/82720187/Bastille-Doom-Days-Promotional-Website)
+> _Powster / Bastille_  
+> _2019_  
+> [Live Project](https://doomdays.house) – [Case Study](https://www.behance.net/gallery/82720187/Bastille-Doom-Days-Promotional-Website)  
 
 An immersive party scene exploration experience with each room featuring a track from the Doom Days album by Bastille.
 
