@@ -136,10 +136,10 @@ We worked with a 3D video capture studio to record Sam Smith’s improvisational
 
 [![Mama Luna's Cat Rescue - Case Study](./images/charisma-puss-boots.png)](https://charisma.ai/blog/puss-in-boots)
 
-> _Interactive conversational pet cat experience_
-> _Powster / Charisma / Dreamworks / Puss in Boots_
-> _2023_
-> [Case Study](https://charisma.ai/blog/puss-in-boots)
+> _Interactive conversational pet cat experience_  
+> _Powster / Charisma / Dreamworks / Puss in Boots_  
+> _2023_  
+> [Case Study](https://charisma.ai/blog/puss-in-boots)  
 
 An interactive conversational pet companion experience that utilizes Charisma AI's character driven story engine.
 
@@ -166,10 +166,10 @@ We combined traditional 3D modeling with handheld 3D scanning to create the coll
 
 [![Minecraft Choose Your Mode - Live Project](./images/minecraft-crocs.png)](https://www.chooseyourmode.net)
 
-> _AR Minecraft mini-games_
-> _Powster / Minecraft / Crocs_
-> _2023_
-> [Live Project](https://www.chooseyourmode.net) – [Case Study](https://www.powster.com/case-study/choose-your-mode/)
+> _AR Minecraft mini-games_  
+> _Powster / Minecraft / Crocs_  
+> _2023_  
+> [Live Project](https://www.chooseyourmode.net) – [Case Study](https://www.powster.com/case-study/choose-your-mode/)  
 
 A set of Minecraft themed mini-games that are unlocked by scanning the Creeper icon on the Crocs product. I developed the custom image recognition model trained on images of the Creeper icon as well as the platformer style game "Crocs Crossing". The game features an infinitely repeating level system which uses randomly shuffled modular platforms.
 
