@@ -124,6 +124,7 @@ Spawned in response to (and named after) a [Tumblr stream](http://dinild.tumblr.
 > _Volumetric AR Performance_  
 > _Powster / Sam Smith / Spotify_  
 > _2020_  
+> _[8th Wall][8th-wall-url], [MRCS](https://news.microsoft.com/source/features/work-life/microsoft-mixed-reality-capture-studios-create-holograms-to-educate-and-entertain/), [Three.js][three-url], [React][react-url], WebGL, GLSL_  
 > [Live Project](https://diamonds.samsmithworld.com) – [Case Study](https://www.behance.net/gallery/106993401/Sam-Smith-Diamonds-AR-on-Spotify)  
 
 An interactive volumetric performance displayed in AR promoting the Diamonds album by Sam Smith. 
@@ -139,6 +140,7 @@ We worked with a 3D video capture studio to record Sam Smith’s improvisational
 > _Interactive conversational pet cat experience_  
 > _Powster / Charisma / Dreamworks / Puss in Boots_  
 > _2023_  
+> _[Charisma.ai](https://charisma.ai), [Three.js][three-url], [React][react-url], WebGL, GLSL_  
 > [Case Study](https://charisma.ai/blog/puss-in-boots)  
 
 An interactive conversational pet companion experience that utilizes Charisma AI's character driven story engine.
@@ -154,6 +156,7 @@ I executed the front-end build including all the playful and conversational inte
 > _Immersive party scene exploration experience_  
 > _Powster / Bastille_  
 > _2019_  
+> _[Three.js][three-url], [React][react-url], WebGL, GLSL_  
 > [Live Project](https://doomdays.house) – [Case Study](https://www.behance.net/gallery/82720187/Bastille-Doom-Days-Promotional-Website)  
 
 An immersive party scene exploration experience with each room featuring a track from the Doom Days album by Bastille.
@@ -169,6 +172,7 @@ We combined traditional 3D modeling with handheld 3D scanning to create the coll
 > _AR Minecraft mini-games_  
 > _Powster / Minecraft / Crocs_  
 > _2023_  
+> _[8th Wall][8th-wall-url], [Three.js][three-url], [React][react-url], WebGL, GLSL_  
 > [Live Project](https://www.chooseyourmode.net) – [Case Study](https://www.powster.com/case-study/choose-your-mode/)  
 
 A set of Minecraft themed mini-games that are unlocked by scanning the Creeper icon on the Crocs product. I developed the custom image recognition model trained on images of the Creeper icon as well as the platformer style game "Crocs Crossing". The game features an infinitely repeating level system which uses randomly shuffled modular platforms.
@@ -192,6 +196,9 @@ Working with one other frontend developer, I was responsible for leading graphic
 
 
 
+[three-url]: https://threejs.org
+[8th-wall-url]: https://www.8thwall.com
+[react-url]: https://react.dev
 [backbone-url]: http://backbonejs.org
 [pixi-url]: http://www.pixijs.com
 [grunt-url]: https://gruntjs.com
