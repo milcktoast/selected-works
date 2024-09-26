@@ -11,6 +11,7 @@
     - [Water Underground](#water-underground)
 - [Client / Contract](#client--contract)
     - [Sam Smith Diamonds](#sam-smith-diamonds)
+    - [Musica Beat Pad](#musica-beat-pad)
     - [Mama Luna's Cat Rescue](#mama-lunas-cat-rescue)
     - [Bastille Doom Days House](#bastille-doom-days-house)
     - [Minecraft Choose Your Mode](#minecraft-choose-your-mode)
@@ -133,6 +134,22 @@ We worked with a 3D video capture studio to record Sam Smith’s improvisational
 
 
 
+### Musica Beat Pad
+
+[![Musica Beat Pad - Live Project](./images/musica-beat-pad.png)](https://www.musicamovie.com)
+
+> _Playful video collage beat pad_  
+> _Powster / Amazon Prime_  
+> _2024_  
+> _[Three.js][three-url], [Howler.js][howler-url], [React][react-url], WebGL, GLSL, MediaRecorder_  
+> [Live Project](https://www.musicamovie.com) – [Promotional Post](https://www.instagram.com/powster/reel/C51Ec1uC9CJ/)
+
+A playful and unique sound and video sampling + beat making interactive experience.
+
+I contributed to the conceptual and creative development of this experience, as well as executed the front-end build of the video collage. I also developed systems for audio and video recording using native browser APIs. Key elements of the experience include recording audio samples with corresponding video and a beat maker with a live rendered cityscape. As a user composes the beat, elements of the collage are composited with the beats video samples, generating a one of a kind video.
+
+
+
 ### Mama Luna's Cat Rescue
 
 [![Mama Luna's Cat Rescue - Case Study](./images/charisma-puss-boots.png)](https://charisma.ai/blog/puss-in-boots)
@@ -198,6 +215,7 @@ Working with one other frontend developer, I was responsible for leading graphic
 
 [three-url]: https://threejs.org
 [8th-wall-url]: https://www.8thwall.com
+[howler-url]: https://howlerjs.com
 [react-url]: https://react.dev
 [backbone-url]: http://backbonejs.org
 [pixi-url]: http://www.pixijs.com
