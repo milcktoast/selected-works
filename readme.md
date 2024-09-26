@@ -11,7 +11,9 @@
     - [Water Underground](#water-underground)
 - [Client / Contract](#client--contract)
     - [Sam Smith Diamonds](#sam-smith-diamonds)
+    - [Mama Luna's Cat Rescue](#mama-lunas-cat-rescue)
     - [Bastille Doom Days House](#bastille-doom-days-house)
+    - [Minecraft Choose Your Mode](#minecraft-choose-your-mode)
     - [Destroy Ernie's Evidence](#destroy-ernies-evidence)
 
 
@@ -130,6 +132,21 @@ We worked with a 3D video capture studio to record Sam Smith’s improvisational
 
 
 
+### Mama Luna's Cat Rescue
+
+[![Mama Luna's Cat Rescue - Case Study](./images/charisma-puss-boots.png)](https://charisma.ai/blog/puss-in-boots)
+
+> _Interactive conversational pet cat experience_
+> _Powster / Charisma / Dreamworks / Puss in Boots_
+> _2023_
+> [Case Study](https://charisma.ai/blog/puss-in-boots)
+
+An interactive conversational pet companion experience that utilizes Charisma AI's character driven story engine.
+
+I executed the front-end build including all the playful and conversational interactions with the users digi-cat as well as the system for generating a unique cat character model for each user based on their answers to a short quiz. One key feature of conversations is speaking animations, which use a custom system that dynamically animates the characters mouth and face using phoneme metadata surfaced by the Charisma API. 
+
+
+
 ### Bastille Doom Days House
 
 [![Doom Days - Live Project](./images/bastille-doom-days.png)](https://doomdays.house)
@@ -142,6 +159,19 @@ We worked with a 3D video capture studio to record Sam Smith’s improvisational
 An immersive party scene exploration experience with each room featuring a track from the Doom Days album by Bastille.
 
 We combined traditional 3D modeling with handheld 3D scanning to create the college house party environments for this experience. I contributed to the conceptual and creative development of the experience including the shattered figure alignment mechanic. I also executed the front-end build including several unique material and VFX shaders that make up the surreal spotlight effect as well as other visuals.
+
+
+
+### Minecraft Choose Your Mode
+
+[![Minecraft Choose Your Mode - Live Project](./images/minecraft-crocs.png)](https://www.chooseyourmode.net)
+
+> _AR Minecraft mini-games_
+> _Powster / Minecraft / Crocs_
+> _2023_
+> [Live Project](https://www.chooseyourmode.net) – [Case Study](https://www.powster.com/case-study/choose-your-mode/)
+
+A set of Minecraft themed mini-games that are unlocked by scanning the Creeper icon on the Crocs product. I developed the custom image recognition model trained on images of the Creeper icon as well as the platformer style game "Crocs Crossing". The game features an infinitely repeating level system which uses randomly shuffled modular platforms.
 
 
 
