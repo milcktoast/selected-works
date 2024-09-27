@@ -201,11 +201,11 @@ A set of Minecraft themed mini-games that are unlocked by scanning the Creeper i
 
 [![They Cloned Tyrone - Live Project](./images/they-cloned-tyrone.png)](https://theycloned.me)
 
-> _Mosaic poster face filter_
-> _Powster / Netflix_
-> _2023_
+> _Mosaic poster face filter_  
+> _Powster / Netflix_  
+> _2023_  
 > _[Meta Spark][meta-spark-url], [Three.js][three-url], [React][react-url], WebGL, GLSL_  
-> [Live Project](https://theycloned.me) – [Case Study](https://www.powster.com/case-study/beware-cheap-imitations/)
+> [Live Project](https://theycloned.me) – [Case Study](https://www.powster.com/case-study/beware-cheap-imitations/)  
 
 A unique face filter built for both web and Instagram that turns the user's selfie into a mosaic poster resembling those promoting the film. I executed the front-end web build as well as the build for Instagram using Meta Spark. 
 
