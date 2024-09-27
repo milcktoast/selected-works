@@ -16,6 +16,7 @@
     - [Bastille Doom Days House](#bastille-doom-days-house)
     - [Minecraft Choose Your Mode](#minecraft-choose-your-mode)
     - [They Cloned Tyrone](#they-cloned-tyrone)
+    - [Overlord](#overlord)
     - [Destroy Ernie's Evidence](#destroy-ernies-evidence)
 
 
@@ -208,6 +209,21 @@ A set of Minecraft themed mini-games that are unlocked by scanning the Creeper i
 > [Live Project](https://theycloned.me) – [Case Study](https://www.powster.com/case-study/beware-cheap-imitations/)  
 
 A unique face filter built for both web and Instagram that turns the user's selfie into a mosaic poster resembling those promoting the film. I executed the front-end web build as well as the build for Instagram using Meta Spark. 
+
+
+
+### Overlord
+
+[![Overlord - Case Study](./images/overlord.png)](https://medium.com/@powster/projecting-overlord-3d-corridor-514e4744fa30)
+
+> _Jump scare hallway scroller_  
+> _Powster / Bad Robot_  
+> _2019_  
+> _[Three.js][three-url], [React][react-url], WebGL, GLSL_  
+> [Case Study](https://medium.com/@powster/projecting-overlord-3d-corridor-514e4744fa30)
+
+An interactive 3D hallway scroller with jump scare videos that pop up as the user progresses down the hallway. I executed the front-end build including custom distortion vfx and created all 3D assets using texture projection mapping.
+
 
 
 ### Destroy Ernie's Evidence
